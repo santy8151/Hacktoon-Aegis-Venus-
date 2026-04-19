@@ -24,6 +24,7 @@ El sistema permite:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python scripts](https://img.shields.io/badge/python_script-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Base de datos y servicios
 

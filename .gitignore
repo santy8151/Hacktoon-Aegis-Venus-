@@ -1,0 +1,77 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Node / Vite / Dependencias Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build Output
+dist/
+dist-ssr/
+out/
+build/
+
+# Variables de Entorno y Secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+
+# Python / Flask / Caché
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos Virtuales Python
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Bases de datos locas
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs y Archivos Temporales
+*.log
+tmp/
+temp/
+*.swp
+*.swo
+
+# IDEs (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

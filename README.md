@@ -63,7 +63,7 @@ MVP en desarrollo (Hackathon)
 
 - Santiago Suarez Ramirez
 - Alisson pacheco Giraldo 
-- Samuel
+- Samuel Parra Baena
 - Sofia Bermudez Pereira
 - Julian Caro Correa
 - Juan David Beltran Gil

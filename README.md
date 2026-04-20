@@ -78,6 +78,8 @@ MVP en desarrollo (Hackathon)
 - Escalable a otras entidades públicas y privadas
 
 ---
+enlace:
+https://venusmedd.lovable.app/transparencia
 
 ## Licencia
 
